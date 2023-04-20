@@ -1,5 +1,5 @@
 # github-backup-python
-Python script and Windows/Linux batch to make an extra security copy of a public or private GitHub repository downloading it locally every 2 hours and cleaning old copies to save space on the disk.
+Python script and Windows/Linux bash to make an extra security copy of a public or private GitHub repository downloading it locally every 2 hours and cleaning old copies to save space on the disk.
 
 To make it work you will need to follow the next steps:
 
